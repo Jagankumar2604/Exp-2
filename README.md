@@ -31,7 +31,7 @@ It must provide secure role-based access for users and librarians, ensuring data
 
 # Use case diagram
 
-<img width="876" height="802" alt="image" src="https://github.com/user-attachments/assets/3d0dad01-c620-4f85-996b-b1bd2abb06da" />
+<img width="675" height="487" alt="image" src="https://github.com/user-attachments/assets/95fe1818-bcde-43ef-97ba-f90f75caf7db" />
 
 # Class diagram
 
